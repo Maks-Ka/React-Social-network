@@ -1,0 +1,76 @@
+
+.desckriptionBlock img {
+    width: 130px;
+    height: 130px;
+}
+
+.screensaver img {
+    width: 1000px;
+    height: 140px;
+}
+
+.mainPhoto {
+    max-width: 200px;
+    border-radius: 35px;
+    margin: 5px;
+    margin-left: 20px;
+    border: medium;
+    border-style:solid ;
+    border-color:rgb(248, 248, 248);
+
+}
+.item{
+    padding-left: 20px;
+
+}
+
+.contact {
+    padding-left: 13px;
+}
+.postsBlock {
+    padding: 10px;
+}
+.status {
+    padding-left: 20px;
+
+}
+    
+.posts {
+    margin-top: 10px;
+}
+.textarea {
+    border-radius: 5px;
+}
+.fileInsert {
+    border-radius: 15px;
+    border: 0.00001cm;
+    border-style:solid ;
+    border-color:rgb(255, 222, 36);
+    color: rgb(54, 29, 5);
+    background-color: #FAEBD7;
+    box-shadow: 0px 1px 0px rgba(0, 0, 0, 0.8);
+    -webkit-transform: scale(0.94);
+    transform: scale(0.94);
+} 
+
+.button {
+    border-radius: 15px;
+    border: 0.05cm;
+    border-style:solid ;
+    border-color:rgb(255, 222, 36);
+    color: rgb(41, 22, 4);
+    background-color: rgb(251, 206, 123); 
+    box-shadow: 0px 1px 0px rgba(0, 0, 0, 0.8);
+    -webkit-transform: scale(0.94);
+    transform: scale(0.94);
+}
+    
+.button:hover {
+    /* color:rgb(71, 187, 255); */
+    background-color: #F4A460;
+    transform: scale(1.03);
+}
+    
+/* .screensaver img:hover {
+    opacity: 1.0;
+} */

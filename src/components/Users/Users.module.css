@@ -1,0 +1,38 @@
+
+.users {
+  padding-left: 20px;
+  padding-top: 10px;
+}
+
+.userPhoto {
+  width: 100px;
+  height: 100px;
+  border: medium;
+  border-style:solid ;
+  border-color:chocolate;
+  border-top: none; border-bottom: none; border-radius: 50px;   
+}
+
+.selectedPage {
+    font-weight: bold;
+}
+
+.button {
+  border-radius: 8px;
+  border: medium;
+  border-style:solid ;
+  border-color:rgb(255, 222, 36);
+  color: rgb(0, 0, 0);
+  background-color: rgb(253, 212, 135); 
+  box-shadow: 0px 1px 0px rgba(0, 0, 0, 0.8);
+  -webkit-transform: scale(0.94);
+  transform: scale(0.94);
+}
+
+.button:hover {
+   color:rgb(71, 42, 4);
+  background-color: #F4A460;
+  /* background-color: rgb(216, 195, 104); */
+  transform: scale(1.00000000000000000000000);
+}  
+ 
