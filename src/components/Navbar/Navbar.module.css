@@ -1,13 +1,15 @@
 .nav {
   grid-area: n;
-  background-color:#8B4513;
-  /* background-color:#f0bc3b; */
+  /* background: #05427a; */
+  background: rgba(101,108,133,.8);
+  /* background: rgba(101,108,133,.8); */
   padding: 15px;
   width: 170px;
 }
 
 .item a{
   color: white;
+  /* color: #1890ff; */
   text-decoration: none;
 }
 
@@ -22,13 +24,13 @@
 
 .sidebarPage {
   text-align:center;
-  color: rgb(0, 0, 0);
+  color: rgb(215, 219, 255);
   margin-top: 100px;
   border-radius: 5px;
   border-top-left-radius: 15px;
   border-top-right-radius: 15px;
   /* height: 500px; */
-  background-color: #FFEBCD;
+  background-color: #6c7580;;
 }
 
 .sidebarPage img {
@@ -48,8 +50,8 @@
 }
 
 .friends {
-  color: #d49f6c;
-  background-color: chocolate;
+  color: #5486aa;
+  background-color: #555a64;
   border-top-left-radius: 15px;
   border-top-right-radius: 15px;
 }

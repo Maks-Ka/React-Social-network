@@ -6,7 +6,7 @@
 }
 
 .dialogs a {
-    color: #ac3803;
+    color: #13157a;
     text-decoration: none;
 }
 
@@ -17,7 +17,7 @@
 
 
 .dialogsItems .active{
-        color: gold;
+        color: rgb(255, 255, 0);
       
 }
 
@@ -34,8 +34,8 @@
 
 .messages {
     padding: 10px; 
-    background-color: #faf6e8;
-    color: #8B4513	;
+    background-color: hsla(0, 0%, 100%, 0.397);
+    color: #120d5a	;
     
 }
   
@@ -55,9 +55,9 @@
     /* border-color:rgb(166, 255, 0);
     color: rgb(10, 52, 238);*/
      /* border-color:rgb(255, 222, 36); */
-     color: rgb(63, 30, 0);
+     /* color: rgb(63, 30, 0);
      background-color: rgb(251, 226, 178);
-     opacity: .77;
+     opacity: .77; */
    /* bottom: 0px; */
 }
 

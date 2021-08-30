@@ -1,11 +1,11 @@
-/*   
+  
 .nav {
-    text-align:center;
+   /* text-align:center;
     width:500px;
     margin-left: 150px;
     border-radius: 15px; 
-    background-color: rgba(168, 107, 37, 0.76);
-} */
+    background-color: rgba(168, 107, 37, 0.76); */
+}
 
 
 /*
@@ -15,7 +15,7 @@ font-family: 'Raleway', sans-serif;
 
 *{
   /* box-sizing: border-box; */
-  padding: 0;
+  padding-left: px;
   margin: 0;
 }
 
@@ -466,7 +466,8 @@ footer > p{
   .navigationContainer{
       display: flex;
       background: #252525;
-      align-items: center;
+      /* align-items: center; */
+      padding-right: 10px;
       flex-wrap: wrap;
   }
 

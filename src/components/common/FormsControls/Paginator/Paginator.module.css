@@ -7,7 +7,7 @@
     padding: 2px;
     border: 1.2px solid grey;
     border-radius: 10px;
-    border-color:rgb(255, 136, 0);
+    /* border-color:rgb(255, 136, 0); */
 
 }
 
@@ -19,21 +19,11 @@
 }
 
 
- .button {
-    margin-bottom: 10px;
+.button {
     border-radius: 8px;
-    border: medium;
-    border-style:solid ;
-    border-color:rgb(255, 222, 36);
-    color: rgb(10, 12, 22);
-    background-color: rgb(251, 208, 138); 
-    box-shadow: 0px 1px 0px rgba(0, 0, 0, 0.8);
-    -webkit-transform: scale(0.94);
-    transform: scale(0.94);
+ 
 }
 
 .button:hover {
-     color:rgb(11, 64, 95);
-    background-color: #F4A460;
-    transform: scale(1.00000000000000000000000);
-}  
+    transform: scale(1.01);
+}

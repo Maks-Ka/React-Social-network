@@ -41,7 +41,7 @@
 .textarea {
     border-radius: 5px;
 }
-.fileInsert {
+/* .fileInsert {
     border-radius: 15px;
     border: 0.00001cm;
     border-style:solid ;
@@ -51,25 +51,17 @@
     box-shadow: 0px 1px 0px rgba(0, 0, 0, 0.8);
     -webkit-transform: scale(0.94);
     transform: scale(0.94);
-} 
+}  */
 
 .button {
-    border-radius: 15px;
-    border: 0.05cm;
-    border-style:solid ;
-    border-color:rgb(255, 222, 36);
-    color: rgb(41, 22, 4);
-    background-color: rgb(251, 206, 123); 
-    box-shadow: 0px 1px 0px rgba(0, 0, 0, 0.8);
-    -webkit-transform: scale(0.94);
-    transform: scale(0.94);
+    border-radius: 30px;
+ 
 }
-    
+
 .button:hover {
-    /* color:rgb(71, 187, 255); */
-    background-color: #F4A460;
-    transform: scale(1.03);
+    transform: scale(1.01);
 }
+
     
 /* .screensaver img:hover {
     opacity: 1.0;
